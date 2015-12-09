@@ -79,7 +79,7 @@
 		// Example $address = "joe.doe@yourdomain.com";
 
 		//Administrator email address
-		$address = "pi.themess@gmail.com";
+		$address = "fornixhealthcare@gmail.com";
 
 
 		// Configuration option.
